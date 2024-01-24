@@ -5,7 +5,7 @@ z![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-2345
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliotalien&label=Profile%20views&color=0e75b6&style=flat" alt="elliotalien" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elliot_alien" target="blank"><img src="https://img.shields.io/twitter/follow/elliot_alien?logo=twitter&style=for-the-badge" alt="[elliot_alien](https://x.com/amala_tv?t=YPPCnWMBW2mpJxEEWDDjgQ&s=09)" /></a> </p>
+<p align="left"> <a href=["https://twitter.com/elliot_alien](https://x.com/amala_tv?t=YPPCnWMBW2mpJxEEWDDjgQ&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/elliot_alien?logo=twitter&style=for-the-badge" alt="[elliot_alien](https://x.com/amala_tv?t=YPPCnWMBW2mpJxEEWDDjgQ&s=09)" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Developer **
 
