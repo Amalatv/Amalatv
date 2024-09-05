@@ -41,9 +41,9 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalatv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amalatv" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalatv&show_icons=true&locale=en" alt="amalatv" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=amalatv&show_icons=true&locale=en&theme=tokyonight" alt="amalatv" />
     </td>
     <td>
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amalatv&" alt="amalatv" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amalatv&theme=tokyonight" alt="amalatv" />
     </td>
   </tr>
