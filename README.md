@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb241czQ2dGswZ2MycDNvMmZ1a3p1eWxqZzhiNG9jdWE0eHYzcjA5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="width: 1000px; height:350px; object-fit:cover"  alt="MasterHead">
+<img src="https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif" style="width: 1000px; height:200px; object-fit:cover"  alt="MasterHead">
 
 <h1 align="center">Hi 👋, I'm Amala TV</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
