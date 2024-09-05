@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tech Related Stuff**
 
-- 📫 How to reach me **amalatv3010@gmail.com**
+- 📫 How to reach me **amalatv.amala@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
